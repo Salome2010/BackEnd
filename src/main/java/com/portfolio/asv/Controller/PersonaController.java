@@ -21,7 +21,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-@CrossOrigin(origins ="https://frontendasvv.web.app")
+@CrossOrigin(origins ="https://frontendasv.web.app")
 public class PersonaController {
 
     @Autowired
